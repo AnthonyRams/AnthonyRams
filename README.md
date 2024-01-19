@@ -3,4 +3,4 @@
 
 
 <h2>:desktop_computer:Projects</h2>
-[Azure Honeynet/SOC Project](https://github.com/AnthonyRams/Azure-Honeyney-SOC)
+Azure Honeynet/SOC Project:(https://github.com/AnthonyRams/Azure-Honeyney-SOC)
